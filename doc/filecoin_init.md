@@ -19,7 +19,6 @@ go-filecoin init --devnet-user --genesisfile=http://user.kittyhawk.wtf:8020/gene
 ```
 go-filecoin daemon
 ```
-可以将此命令在后台运行。
 正常的话会看到不断刷新的节点，如下图：
 ![image](http://note.youdao.com/yws/res/11612/7F7FC10A933A42978DAFF3914168DD3B)
 
@@ -29,6 +28,10 @@ rm -rf ~/.filecoin
 ```
 删除 `~/.filecoin`目录后，重新执行一遍上面的 `go-filecoin init ...` 命令，再次初始化。
 
+也可以使用以下命令在后台运行：
+```
+nohup go-filecoin daemon &
+```
 
 ##### 3、设置节点昵称
 节点启动后，开启另一个终端，执行:
