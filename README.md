@@ -70,15 +70,15 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 ### 第四章、Filecoin测试网络
 
-#### 1- 测试网络的安装
+#### 1- [测试网络的安装](doc/filecoin_install.md)
 
-#### 2- 初始化与启动
+#### 2- [初始化与启动](doc/filecoin_init.md)
 
-#### 3- 钱包操作与挖矿
+#### 3- [钱包操作与挖矿](doc/filecoin_mining.md)
 
-#### 4- 源码编译
+#### 4- [源码编译](doc/filecoin_compile.md)
 
-#### 5- 常用工具网站
+#### 5- [常用工具网站](doc/filecoin_tools.md)
 
 
 ### 附：
