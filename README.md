@@ -60,13 +60,22 @@ By 古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 2- BitSwap
 
-#### 3- Merkle-DAG
+#### 3- Libp2p
 
-#### 4- Git 版本控制技术
+#### 4- Multiformats
 
-#### 5- ICE NET & NAT 穿透技术
+#### 5- IPLD & Merkle-DAG
 
-#### 6- DSHT
+#### 6- Filecoin
+
+### 第四章、Filecoin测试网络
+
+#### 1- 测试网络的安装与启动
+
+#### 2- 钱包等基本操作
+
+#### 3- 源码编译
+
 
 ### 附：
 
