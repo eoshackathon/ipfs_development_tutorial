@@ -1,6 +1,6 @@
 #### 五、几个概念
 类似于EOS，filecoin也有以下几个区块链的基本标准概念：
-![0924c749b7c1200c5c19065b5cd3d54f.jpg](http://note.youdao.com/yws/res/11674/WEBRESOURCEd6040c53f57715e81754b144320b6f69)
+[![kHe279.md.png](https://s2.ax1x.com/2019/02/28/kHe279.md.png)](https://imgchr.com/i/kHe279)
 ##### 1、节点（node）
 启动方式：
 ```
